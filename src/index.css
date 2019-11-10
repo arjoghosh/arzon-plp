@@ -1,0 +1,16 @@
+hr{
+  color:rgb(250, 246, 246);
+}
+.list-attributes img {
+  float: left;
+  height:100px;
+  width:100px;
+}
+
+.list-attributes h2,.list-attributes h3 {
+  position: relative;
+}
+
+button{
+  background-color:#fff200;
+}

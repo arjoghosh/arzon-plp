@@ -1,1 +1,20 @@
-
+[
+  { "id": 0,
+    "title": "Vitamin Juice",
+    "description": "Need a jump on your vitamins while drinking? Tired of popping the pills? Drink our vitamin enhanced juice, available in several flavours.",
+    "price": 25.99,
+    "image":"https://hplussport.com/wp-content/uploads/2015/12/mineral-water-raspberry_600px.png"
+  },
+  { "id": 1,
+    "title": "Vitamins pack",
+    "description": "Need a jump on your vitamins while drinking? Tired of popping the pills? Drink our vitamin enhanced juice, available in several flavours.",
+    "price": 4.99,
+    "image":"https://hplussport.com/wp-content/uploads/2016/12/slicker-jacket_LYNDA_29941.jpg"
+  },
+  { "id": 2,
+    "title": "T-shirt",
+    "description": "Need a jump on your vitamins while drinking? Tired of popping the pills? Drink our vitamin enhanced juice, available in several flavours.",
+    "price": 5.99,
+    "image":"https://hplussport.com/wp-content/uploads/2016/12/v-neck-T-shirt-for-women_LYNDA_29948.jpg"
+  }
+]
